@@ -6,3 +6,4 @@ Gemfile.lock
 *.docx
 
 **/.DS_Store
+_sections/about-me.html
